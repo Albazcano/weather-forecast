@@ -44,3 +44,9 @@ basic understanding of HTML, CSS and JavaScript
 Tech:
 a computer/laptop to copy the files to with a code editor of your choice
 ```
+
+## Preview
+
+<p align="left">
+   <img src="https://user-images.githubusercontent.com/20955511/111051345-0bcff300-845b-11eb-80ca-717a9a838e2c.png"/> 
+</p>
